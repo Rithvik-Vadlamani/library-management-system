@@ -1,0 +1,5 @@
+**/target/
+*.class
+*.jar
+.DS_Store
+server/data/members.json

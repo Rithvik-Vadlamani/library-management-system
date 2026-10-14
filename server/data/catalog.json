@@ -1,0 +1,212 @@
+[
+  {
+    "id": "b-1777414728820",
+    "kind": "book",
+    "title": "Harry Potter 2",
+    "creator": "fffffff",
+    "summary": "",
+    "year": 2024,
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "tags": [
+      "fiction"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 300,
+    "isbn": "",
+    "durationMinutes": 0
+  },
+  {
+    "id": "a-001",
+    "kind": "audiobook",
+    "title": "Educated",
+    "creator": "Tara Westover",
+    "summary": "Memoir of a woman who left her survivalist family to earn a PhD from Cambridge.",
+    "year": 2018,
+    "totalCopies": 2,
+    "availableCopies": 1,
+    "tags": [
+      "memoir",
+      "nonfiction"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 0,
+    "durationMinutes": 750,
+    "narrator": "Julia Whelan"
+  },
+  {
+    "id": "a-002",
+    "kind": "audiobook",
+    "title": "Project Hail Mary",
+    "creator": "Andy Weir",
+    "summary": "Full sound-designed audio edition.",
+    "year": 2021,
+    "totalCopies": 2,
+    "availableCopies": 0,
+    "tags": [
+      "scifi",
+      "fiction"
+    ],
+    "reviews": [
+      {
+        "author": "alice",
+        "rating": 1,
+        "text": "bad audio",
+        "timestamp": 1777414765087
+      }
+    ],
+    "holdQueue": [],
+    "pages": 0,
+    "durationMinutes": 970,
+    "narrator": "Ray Porter"
+  },
+  {
+    "id": "b-1777250009478",
+    "kind": "book",
+    "title": "Harry Potter and the Philosopher\u0027s Stone",
+    "creator": "J.K. Rowling",
+    "summary": "",
+    "year": 2024,
+    "totalCopies": 5,
+    "availableCopies": 4,
+    "tags": [
+      "fiction"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 223,
+    "isbn": "",
+    "durationMinutes": 0
+  },
+  {
+    "id": "g-001",
+    "kind": "game",
+    "title": "Stardew Valley",
+    "creator": "ConcernedApe",
+    "summary": "Inherit a run-down farm and rebuild it. Cozy, deep, endlessly replayable.",
+    "year": 2016,
+    "totalCopies": 2,
+    "availableCopies": 1,
+    "tags": [
+      "cozy",
+      "indie"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 0,
+    "durationMinutes": 0,
+    "platform": "Switch",
+    "esrbRating": "E10+"
+  },
+  {
+    "id": "b-001",
+    "kind": "book",
+    "title": "The Pragmatic Programmer",
+    "creator": "David Thomas, Andrew Hunt",
+    "summary": "A classic on craft, design, and effective software engineering habits.",
+    "year": 1999,
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "tags": [
+      "programming",
+      "classic"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 352,
+    "isbn": "978-0201616224",
+    "durationMinutes": 0
+  },
+  {
+    "id": "g-002",
+    "kind": "game",
+    "title": "Hades",
+    "creator": "Supergiant Games",
+    "summary": "Roguelike set in Greek myth. Fight your way out of the underworld.",
+    "year": 2020,
+    "totalCopies": 1,
+    "availableCopies": 0,
+    "tags": [
+      "roguelike",
+      "indie"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 0,
+    "durationMinutes": 0,
+    "platform": "PC",
+    "esrbRating": "T"
+  },
+  {
+    "id": "b-002",
+    "kind": "book",
+    "title": "Project Hail Mary",
+    "creator": "Andy Weir",
+    "summary": "A lone astronaut wakes on a one-way mission with no memory of how he got there.",
+    "year": 2021,
+    "totalCopies": 6,
+    "availableCopies": 3,
+    "tags": [
+      "fiction",
+      "scifi"
+    ],
+    "reviews": [
+      {
+        "author": "bob",
+        "rating": 5,
+        "text": "Good book",
+        "timestamp": 1777406891351
+      },
+      {
+        "author": "alice",
+        "rating": 4,
+        "text": "mid",
+        "timestamp": 1777414792144
+      }
+    ],
+    "holdQueue": [],
+    "pages": 496,
+    "isbn": "978-0593135204",
+    "durationMinutes": 0
+  },
+  {
+    "id": "d-001",
+    "kind": "dvd",
+    "title": "Arrival",
+    "creator": "Denis Villeneuve",
+    "summary": "A linguist tries to communicate with newly arrived extraterrestrials.",
+    "year": 2016,
+    "totalCopies": 3,
+    "availableCopies": 2,
+    "tags": [
+      "scifi",
+      "drama"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 0,
+    "durationMinutes": 116,
+    "contentRating": "PG-13"
+  },
+  {
+    "id": "d-002",
+    "kind": "dvd",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "creator": "Persichetti, Ramsey, Rothman",
+    "summary": "Miles Morales becomes one of many Spider-People across the multiverse.",
+    "year": 2018,
+    "totalCopies": 3,
+    "availableCopies": 2,
+    "tags": [
+      "animation",
+      "family"
+    ],
+    "reviews": [],
+    "holdQueue": [],
+    "pages": 0,
+    "durationMinutes": 117,
+    "contentRating": "PG"
+  }
+]
